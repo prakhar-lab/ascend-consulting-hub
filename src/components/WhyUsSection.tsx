@@ -44,7 +44,7 @@ export function WhyUsSection() {
               Why Indieverse Labs
             </h2>
             <p className="text-muted-foreground leading-relaxed">
-              We at Indieverse Labs have been working at the forefront of AI, data science and custom LLMs to solve business problems of large enterprises from sectors such as manufacturing, retail, finance, healthcare and technology. We have also worked with the government, law enforcement and defence agencies. We understand critical data security and compliance requirements that can't be compromised.
+              At Indieverse Labs, we work at the forefront of AI, data science, and custom LLM systems to solve enterprise problems across manufacturing, retail, finance, healthcare, and technology. We've also worked with government, law enforcement, and defence agencies, so we understand security, governance, and compliance requirements that cannot be compromised.
             </p>
             
             {/* Industry chips */}

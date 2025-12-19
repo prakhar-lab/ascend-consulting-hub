@@ -35,7 +35,7 @@ export function ChallengeSection() {
             Is AI living up to the promise for enterprises?
           </h2>
           <p className="text-lg text-muted-foreground leading-relaxed">
-            For large enterprises, AI often becomes a black box with safety, consistency, and reliability issues. Without company-level context—policies, permissions, technical architecture, and real data—LLMs remain limited to generic answers. Startups can move faster with relaxed security and smaller data footprints. Enterprises can't.
+            For large enterprises, AI can become a black box: inconsistent answers, safety concerns, and unreliable outcomes. Without company context—policies, permissions, architecture, and real data—LLMs stay generic. Startups can move faster with simpler systems and looser constraints. Enterprises can't.
           </p>
         </motion.div>
 

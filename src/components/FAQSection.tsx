@@ -9,23 +9,23 @@ import {
 const faqs = [
   {
     question: "Can you deploy in our own cloud or on‑premise?",
-    answer: "Yes. We can deploy in your AWS, GCP, or Azure environment, and we can also support private or on‑prem setups depending on security requirements.",
+    answer: "Yes. We can deploy in your AWS, GCP, or Azure environment, and we can also support private or on‑prem deployments based on your security requirements.",
   },
   {
     question: "How do you connect agents to internal enterprise data securely?",
-    answer: "We design a permissioned context pipeline that connects to your systems (databases, CRMs, ERPs, documents) and provides the agent only the approved context needed for the task, with logging and monitoring.",
+    answer: "We design a permissioned context pipeline that connects to your systems (databases, CRM, ERP, documents) and gives the agent only the approved context needed for the task, with logging and monitoring.",
   },
   {
     question: "Which models do you support?",
-    answer: "We are model-agnostic. We use the model that best fits your use case for accuracy, latency, and cost—including leading enterprise and open-source options.",
+    answer: "We're model-agnostic. We use the model that best fits your use case for accuracy, latency, and cost—including leading enterprise and open-source options.",
   },
   {
     question: "How do you reduce hallucinations?",
-    answer: "We ground responses in your approved sources, constrain tool actions, add guardrails, and implement escalation paths for edge cases.",
+    answer: "We ground responses in approved sources, constrain tool actions, add guardrails, and implement escalation paths for edge cases.",
   },
   {
     question: "What does the engagement typically look like?",
-    answer: "We start with discovery, build an MVP against staging data, then harden and deploy the production system integrated with real data and workflows.",
+    answer: "We start with discovery, build an MVP against staging data, then harden and deploy a production system integrated with real data and workflows.",
   },
 ];
 

@@ -4,26 +4,26 @@ import { ArrowRight, TrendingUp } from "lucide-react";
 const caseStudies = [
   {
     title: "Dealer Voice Assistant at National Scale",
-    description: "Voice assistants for dealers country-wide, designed to resolve queries and route exceptions.",
-    metrics: "65% faster query resolution • 40% reduction in call handling time • 3.2x higher dealer satisfaction",
+    description: "Voice assistants for dealers nationwide, designed to resolve queries and route exceptions.",
+    metrics: "65% faster query resolution (placeholder) • 40% lower call handling time (placeholder) • 3.2× higher dealer satisfaction (placeholder)",
     href: "/case-studies/dealer-voice-assistant",
   },
   {
     title: "Automated Collection Agent",
     description: "Automates payment follow-ups, tracking, and escalations across thousands of vendor transactions.",
-    metrics: "55% reduction in manual follow-ups • 25% faster collections cycle • 90% fewer missed escalations",
+    metrics: "55% fewer manual follow-ups (placeholder) • 25% faster collections cycle (placeholder) • 90% fewer missed escalations (placeholder)",
     href: "/case-studies/automated-collection-agent",
   },
   {
     title: "Employee Insights Assistant for Retail Brands",
     description: "Gives teams real-time, data-backed insights inside existing workflows.",
-    metrics: "3x faster time-to-insight • 30% fewer reporting requests • 70% weekly active usage",
+    metrics: "3× faster time-to-insight (placeholder) • 30% fewer reporting requests (placeholder) • 70% weekly active usage (placeholder)",
     href: "/case-studies/employee-insights-assistant",
   },
   {
     title: "Onboarding AI Buddy (4 weeks)",
     description: "Improves onboarding experience and reduces repetitive support questions.",
-    metrics: "20% higher activation • 35% fewer onboarding tickets • 2x faster time-to-first-value",
+    metrics: "20% higher activation (placeholder) • 35% fewer onboarding tickets (placeholder) • 2× faster time-to-first-value (placeholder)",
     href: "/case-studies/onboarding-ai-buddy",
   },
 ];

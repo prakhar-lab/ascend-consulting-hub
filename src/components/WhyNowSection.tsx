@@ -21,7 +21,7 @@ export function WhyNowSection() {
             Agentic AI is a step function — and the timing is finally right.
           </h2>
           <p className="text-muted-foreground leading-relaxed">
-            Consistent improvements in model accuracy and speed have opened up scalable enterprise integrations with significantly reduced hallucinations. Open-source models and enterprise offerings from reliable providers support strong security controls and self-hosting options. The missing piece is a secure pipeline that delivers real-time, permissioned company context—this is where we come in.
+            Improvements in model quality and speed have made enterprise-scale integrations practical, with fewer hallucinations and better consistency. Open-source models and enterprise offerings now support stronger controls and private hosting. The missing piece is a secure pipeline that delivers real-time, permissioned company context—this is where we come in.
           </p>
         </motion.div>
 

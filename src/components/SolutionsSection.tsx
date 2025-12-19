@@ -5,7 +5,7 @@ const solutions = [
   {
     icon: Phone,
     title: "Voice Agents (Inbound & Outbound)",
-    oneLiner: "Handle calls end-to-end: answer questions, capture intent, update systems, and escalate when needed.",
+    oneLiner: "Run call workflows end-to-end: answer questions, capture intent, update systems, and escalate when needed.",
     integrations: "Telephony • CRM • Ticketing • Payments",
     href: "/solutions/voice-agents",
   },
@@ -19,28 +19,28 @@ const solutions = [
   {
     icon: BarChart3,
     title: "Data Analytics Assistant",
-    oneLiner: "Ask questions in natural language and get reliable, source-linked answers from your data.",
+    oneLiner: "Ask questions in natural language and get reliable answers grounded in your data sources.",
     integrations: "Warehouse • BI • Databases",
     href: "/solutions/data-analytics-assistant",
   },
   {
     icon: FileText,
     title: "Document Workflow Agent",
-    oneLiner: "Turn policies, legal docs, and operational manuals into structured, actionable workflows.",
+    oneLiner: "Turn policies, legal documents, and operational manuals into structured, actionable workflows.",
     integrations: "Docs • RAG • Approvals",
     href: "/solutions/document-workflow-agent",
   },
   {
     icon: Network,
     title: "Hybrid Multi‑Agent Systems",
-    oneLiner: "Multiple specialist agents orchestrated with guardrails for complex processes.",
+    oneLiner: "Orchestrate multiple specialist agents with guardrails for complex processes.",
     integrations: "Tools • APIs • Internal services",
     href: "/solutions/multi-agent-systems",
   },
   {
     icon: MessageSquare,
     title: "NLP Automation",
-    oneLiner: "Sentiment, classification, extraction, summarization—productionized for scale.",
+    oneLiner: "Sentiment, classification, extraction, and summarization—productionized for scale.",
     integrations: "Support • Reviews • Email • Chat",
     href: "/solutions/nlp-automation",
   },
@@ -62,7 +62,7 @@ export function SolutionsSection() {
             Solutions we build
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Each solution is tailored to your systems, your security requirements, and your workflows.
+            Each solution is built around your systems, your security requirements, and your workflows.
           </p>
         </motion.div>
 

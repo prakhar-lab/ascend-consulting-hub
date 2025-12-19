@@ -104,7 +104,7 @@ export function ContactModal({ isOpen, onClose }: ContactModalProps) {
                       Contact Indieverse Labs
                     </h2>
                     <p className="text-muted-foreground text-sm">
-                      Tell us what you're trying to build. We'll get back with next steps.
+                      Tell us what you want to build. We'll respond with next steps.
                     </p>
                   </div>
 
@@ -216,7 +216,7 @@ export function ContactModal({ isOpen, onClose }: ContactModalProps) {
                     Thanks — we'll reach out shortly.
                   </h3>
                   <p className="text-muted-foreground text-sm mb-6">
-                    We received your message. Our team will respond with next steps.
+                    We received your message. Our team will reach out with next steps.
                   </p>
                   <Button onClick={handleClose} variant="outline">
                     Close
