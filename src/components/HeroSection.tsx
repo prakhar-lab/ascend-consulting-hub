@@ -41,11 +41,11 @@ export function HeroSection({ onOpenContact }: HeroSectionProps) {
             </h1>
             
             <p className="text-lg text-muted-foreground leading-relaxed max-w-xl">
-              We are a technical consulting group of AI experts building enterprise-grade integrated LLM agents. We use the most relevant and reliable model for your use case and connect it to your existing tech stack (DB, CRM, ERP, messaging), in a secure environment.
+              We're a technical team of AI engineers building enterprise-grade, integrated LLM agents. We select the right model for your use case and integrate it with your existing stack (databases, CRM, ERP, and messaging) inside a secure environment.
             </p>
             
             <p className="text-muted-foreground">
-              Empower agents with real-time data. Integrate them flawlessly with your workflows. Step up efficiency across the entire organisation.
+              Give agents real-time context. Integrate them into your workflows. Improve speed, consistency, and efficiency across the organization.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4">

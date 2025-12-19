@@ -28,10 +28,10 @@ export function CapabilitiesSection() {
           className="text-center mb-16"
         >
           <h2 className="font-display font-bold text-3xl sm:text-4xl lg:text-5xl mb-4">
-            Technical capabilities
+            Technical capabilities (built to integrate)
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            We are model-agnostic and integration-first. We choose the best model and architecture for your security, accuracy, and cost requirements.
+            We're model-agnostic and integration-first. We choose the right model and architecture for your security, accuracy, latency, and cost requirements.
           </p>
         </motion.div>
 
